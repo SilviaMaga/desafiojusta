@@ -1,0 +1,11 @@
+{
+  "name": "tst_silvia_magalhaes",
+  "version": "1.0.0",
+  "description": "Desafio @ Justa QA",
+  "main": "index.js",
+  "author": "Silvia Magalhaes",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
